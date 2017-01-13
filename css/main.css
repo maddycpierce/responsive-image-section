@@ -23,3 +23,25 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+html {
+  background-color: #e2e2e2;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  padding: .4em .75em .3em;
+  border-radius: 4px;
+  border-width: 3px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #555;
+}
+
+.img-flex {
+  width: 100%;
+}
